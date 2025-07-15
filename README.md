@@ -20,7 +20,7 @@ Built using Python, Streamlit, and scikit-learn.
 1. **Clone or download** this repository.
 2. **Install requirements**:
     ```bash
-    pip install streamlit scikit-learn numpy
+    pip install -r requirements.txt
     ```
 3. **Start the app**:
     ```bash
